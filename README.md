@@ -18,9 +18,9 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
-<img src="pics/1206/master_slave_status.png" alt="master_slave_status" style="zoom:75%;" />
+<img src="/img/master_slave_status.png" alt="master_slave_status" style="zoom:75%;" />
 
-<img src="pics/1206/master_slave_test.png" alt="master_slave_test" style="zoom:75%;" />
+<img src="/img/master_slave_test.png" alt="master_slave_test" style="zoom:75%;" />
 
 **host mysql1** <u>mysqld.cnf</u> 
 
